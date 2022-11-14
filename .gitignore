@@ -1,1 +1,4 @@
 gitCode.txt
+*.out
+.vscode
+*.code-workspace
